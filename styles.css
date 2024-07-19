@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: 'Coolfont';
     src: url('MangoGrotesque-ExtraBold.ttf'); 
@@ -171,6 +173,8 @@ body{
 
 .try:hover{
     letter-spacing: 2px;
+    width: 210px;
+    height: 85px;
 }
 .non-visible{
     transition: 0.5s;
